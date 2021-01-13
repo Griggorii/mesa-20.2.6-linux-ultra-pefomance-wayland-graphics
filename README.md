@@ -1,5 +1,5 @@
 # mesa-20.2.6-linux-ultra-pefomance-wayland-graphics
-ubuntu , debian , fedora , arch , all  , test  , distro , meson , ninja-build , perfomance wayland new , griggorii , quality color grafic , quality audio , quality ultra hd 10K pixelization
+ubuntu , debian , fedora , arch , all  , test  , distro , meson , ninja-build , perfomance wayland new , griggorii , quality color grafic , quality audio , quality ultra hd 10K 16K pixelization gui
 
 Download source mesa + my include: https://github.com/Griggorii/mesa-20.2.6-linux-ultra-pefomance-wayland-graphics/releases/tag/20.2.6
 
