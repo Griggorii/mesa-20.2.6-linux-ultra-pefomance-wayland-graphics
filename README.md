@@ -1,7 +1,7 @@
 # mesa-20.2.6-linux-ultra-pefomance-wayland-graphics
 ubuntu , debian , fedora , arch , all  , test  , distro , meson , ninja-build , perfomance wayland new , griggorii , quality color grafic , quality audio , quality ultra hd 10K 16K pixelization gui
 
-13.01.2021 произведен новый революционный видео драйвер который еще и влияет не только на улучшение картинки , но и аудио подсистемы.
+13.01.2021 произведен новый революционный видео драйвер который влияет не только на улучшение картинки , но и аудио подсистемы.
 
 Download source mesa + my include: https://github.com/Griggorii/mesa-20.2.6-linux-ultra-pefomance-wayland-graphics/releases/tag/20.2.6
 
