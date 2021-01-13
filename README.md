@@ -3,7 +3,7 @@ ubuntu , debian , fedora , arch , all  , test  , distro , meson , ninja-build , 
 
 Download source mesa + my include: https://github.com/Griggorii/mesa-20.2.6-linux-ultra-pefomance-wayland-graphics/releases/tag/20.2.6
 
-Dev install example 20.04 | ubuntu old 17.04\17.10\18.04\18.10\19.04\19.10 replace libclang-common-<ver?> libclang-? libclang1-? libobjc-?-dev 
+Dev install exmp 20.04 | ubuntu old 17.04\17.10\18.04\18.10\19.04\19.10 replace libclang-common-<ver?> libclang-? libclang1-? libobjc-?-dev 
 
 $ sudo rm /usr/share/doc/libc6/changelog.Debian.gz
 
