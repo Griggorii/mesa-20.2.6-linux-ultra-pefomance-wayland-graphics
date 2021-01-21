@@ -3,6 +3,8 @@ ubuntu , debian , fedora , arch , all  , test  , distro , meson , ninja-build , 
 
 13.01.2021 произведен новый революционный видео драйвер который влияет не только на улучшение картинки , но и аудио подсистемы.
 
+Download mesa 20.2.6 ubuntu 20.04: https://github.com/Griggorii/mesa-20.2.6-linux-ultra-pefomance-wayland-graphics/releases/download/20.2.6/mesa-20.2.26_build_best_pixelization_20.04.zip libc-2.31
+
 Download source mesa + my include: https://github.com/Griggorii/mesa-20.2.6-linux-ultra-pefomance-wayland-graphics/releases/tag/20.2.6
 
 Test original video driver test https://linuxreviews.org/static/unity-browser-benchmarks-2018
