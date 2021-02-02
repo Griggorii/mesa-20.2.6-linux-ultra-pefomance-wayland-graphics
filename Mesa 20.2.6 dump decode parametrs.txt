@@ -1779,4 +1779,7 @@ FBConfig ID: 399  Visual ID=51c  depth=32  class=TrueColor, type=window,pixmap,p
     multiSample=0  multiSampleBuffers=0
     visualCaveat=None
     Opaque.
+    
+    
+ sRGB=Y   
 
