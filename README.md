@@ -43,6 +43,8 @@ install mesa build replace reinstall original security include | возвращ�
 
 Те кто понимает на сколько это огромная работа касаемо инклюдов и в корпорациях получают за такую сборку миллионы долларов , но нету денег можно отблагодарить звездочкой в избранное.
 
+Info manipulate run programms and games: https://www.reddit.com/r/linux_gaming/comments/c3yk0t/how_to_use_the_vulkan_overlay_of_mesa_1910/
+
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Enum\PCI\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\00000000]
 "Class"="Display"
 "ClassGUID"="{4D36E968-E325-11CE-BFC1-08002BE10318}"
